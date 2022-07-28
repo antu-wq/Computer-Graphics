@@ -1,3 +1,10 @@
+/*
+	North East University Bangladesh
+	Shib Prosad Roy
+	ID:190303020013
+	8th semester
+	dept: Bsc(Engg:) in CSE
+*/
 #include <stdio.h>
 #include <GL/gl.h>
 #include <GL/glut.h>
